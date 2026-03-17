@@ -1,3 +1,5 @@
+// Registration Number: EB3/66981/23
+// Name: Rooney Kipkorir
 #include <iostream>
 #include <vector>
 #include <algorithm>
