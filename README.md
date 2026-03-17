@@ -1,2 +1,0 @@
-# Slow-sort
-Rooney kipkorir
