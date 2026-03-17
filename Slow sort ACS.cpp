@@ -41,14 +41,13 @@ int main() {
         cout << arr[i] << " ";
     }
 
-    //Here it  Perform Slow Sort
+    // Perform Slow Sort
     slowSort(arr, 0, n - 1);
 
     // Show array after sorting
-    cout << "After sorting (ascending): ";
+    cout << "\nAfter sorting (ascending): ";
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
-    }
-
+    }    cout << "\n";
     return 0;
 }
